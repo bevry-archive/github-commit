@@ -200,7 +200,7 @@
   },
   "dependencies": {
     "cross-fetch": "^3.0.6",
-    "githubauthreq": "^5.19.0"
+    "githubauthreq": "^6.0.0"
   },
   "contributors": []
 }
