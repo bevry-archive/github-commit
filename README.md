@@ -39,7 +39,7 @@ Fetch the latest commit of a GitHub repository
 
 ```typescript
 // import the library
-import getCommit from '@bevry/github-commit`
+import getCommit from '@bevry/github-commit'
 
 // fetch the commit
 const commit = await getCommit('bevry/github-commit').catch((err) => {
