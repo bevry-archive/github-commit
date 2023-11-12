@@ -148,7 +148,7 @@
   },
   "devDependencies": {
     "@bevry/update-contributors": "^1.20.0",
-    "@typescript-eslint/eslint-plugin": "^4.29.0",
+    "@typescript-eslint/eslint-plugin": "^6.10.0",
     "@typescript-eslint/parser": "^4.29.0",
     "assert-helpers": "^8.4.0",
     "eslint": "^7.32.0",
